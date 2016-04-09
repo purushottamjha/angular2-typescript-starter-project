@@ -1,0 +1,26 @@
+{
+  "name": "shopcultur",
+  "authors": [
+    "Purushottam Jha <purushottamjha2005@gmail.com>"
+  ],
+  "description": "Shopping, deals, etc.",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Shopping",
+    "deals",
+    "etc."
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
